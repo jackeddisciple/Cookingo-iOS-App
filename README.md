@@ -6,6 +6,16 @@ Instead of long videos or static recipes, it breaks learning into interactive qu
 Think learning cooking the way games teach skills:
 fast feedback, progression, and rewards.
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="./screenshots/1.png" width="250"/>
+  <img src="./screenshots/2.png" width="250"/>
+  <img src="./screenshots/3.png" width="250"/>
+  <img src="./screenshots/4.png" width="250"/>
+
+</p>
+
 ✨ Features
 🎮 Gamified Learning
 Arcade-style progression system
