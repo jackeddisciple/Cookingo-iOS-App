@@ -15,11 +15,15 @@ fast feedback, progression, and rewards.
 </p>
 
 ✨ Features
+
 🎮 Gamified Learning
+
 Arcade-style progression system
+
 Levels, streaks, and rewards
 
 🧠 Quiz-Based Learning
+
 Learn ingredients, techniques, and recipes
 Bite-sized, interactive questions
 
@@ -33,8 +37,11 @@ Quick sessions, high retention focus
 
 🛠️ Tech Stack
 iOS: Swift / SwiftUI (or UIKit — update based on what you used)
+
 Architecture: MVVM / MVC
+
 Storage: CoreData / Firebase / Local storage
+
 Other: (Add anything like animations, APIs, etc.)
 
 🎯 Concept
@@ -42,20 +49,29 @@ Learning cooking shouldn’t feel like studying.
 It should feel like playing.
 
 Cookingo applies game design principles to skill-building:
-Instant feedback
-Small wins
-Progressive difficulty
-Habit formation
-📸 Screenshots
 
+Instant feedback
+
+Small wins
+
+Progressive difficulty
+
+Habit formation
 
 🚧 Future Improvements
+
 👨‍🍳 Real recipe walkthroughs
+
 🧑‍🤝‍🧑 Multiplayer challenges
+
 🏆 Leaderboards
+
 🤖 Personalized learning paths
+
 🎥 Short interactive cooking videos
+
 ⚙️ Installation
+
 git clone https://github.com/your-username/cookingo.git
 cd cookingo
 open Cookingo.xcodeproj
